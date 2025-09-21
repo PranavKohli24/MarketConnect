@@ -1,6 +1,4 @@
-• Crafted CRUD operations for posts, managing captions and images while ensuring data integrity and user ownership. <br/>
-• Established secure user authentication with JWT(jsonwebtoken) for signup, login, and logout. <br/> 
-• Designed a comment system, tested with 50+ comments, enabling users to add, update, and delete comments. <br/>
-• Developed a scalable like system tested on postman to display post likes, counts, and user details efficiently. <br/>
-• Added an OTP-based password reset mechanism using Nodemailer, tested for 20+ successful resets. <br/>
-• Documented the entire API with Swagger UI, ensuring clear and developer-friendly API exploration and testing. <br/>
+• Built a marketplace web app connecting users with local shopkeepers for live product listings and price updates.
+• Launched a price comparison feature across 10+ retailers, helping users make faster, smarter decisions, driving transparency and real-world savings.
+• Pre-order & Quick Pickup: Users can order through app for quick pickup, reducing wait times from 15 to 5 mins (66%).
+• The app delivered real-world impact by streamlining local shopping, boosting efficiency for both buyers and sellers.
